@@ -1,4 +1,4 @@
-class Car1 { 
+class Car2 { 
     //field 
     engine:string; 
   
