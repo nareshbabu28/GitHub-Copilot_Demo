@@ -8,7 +8,7 @@ class Car2 {
     }  
  
     //function 
-    disp():void { 
+    display():void { 
        console.log("Engine is  :   "+this.engine) 
     } 
 
