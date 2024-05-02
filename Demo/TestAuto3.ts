@@ -12,9 +12,9 @@ class Car2 {
        console.log("Engine is  :   "+this.engine) 
     } 
 
-    //function
-    start():void {
-        console.log("Car engine started")
-    }
+      //function
+      getEngine():string {
+         return this.engine;  
+      }
 
  }
