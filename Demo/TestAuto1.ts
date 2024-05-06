@@ -21,9 +21,4 @@ class Car1 {
       stop():void {
          console.log("Car engine stopped")   
       }
-
-      //function
-      accelerate():void {
-         console.log("Car is accelerating")   
-      }
  }
